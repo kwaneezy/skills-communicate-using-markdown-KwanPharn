@@ -8,3 +8,11 @@ We can wander through the forest
 And do so as we please";
 ```
 
+# My Tasks
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
